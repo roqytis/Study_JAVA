@@ -1,0 +1,14 @@
+package javaWorkshop02;
+
+public class test5 {
+
+	public static void main(String[] args) {
+		//System.out.println(Math.random());//0.0~1.0보다 작은수
+		
+		
+		
+	int value =(int)(Math.random()*6)+1	//1~6 난수		
+System.out.println(value);
+	}
+
+}

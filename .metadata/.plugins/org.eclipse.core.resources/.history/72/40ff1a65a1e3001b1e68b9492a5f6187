@@ -1,0 +1,22 @@
+package javaWorkshop02;
+
+import java.util.Scanner;
+
+public class test11 {
+	public static void main(String[] args) {
+		
+		Scanner scan=new Scanner(System.in);
+		
+		System.out.println("a의 값:");
+		int a= scan.nextInt();
+		int b=0;
+		while (true) {
+			System.out.print("b의 rkqt:");
+			if(b>a)
+	        break;
+			System.out.println("a보다 큰 값을 입력하세요!");
+		}
+	    System.out.println("b-a는"+(b-a)+"입니다.");
+	}
+
+}

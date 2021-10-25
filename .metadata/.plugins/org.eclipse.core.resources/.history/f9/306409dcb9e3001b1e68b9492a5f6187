@@ -1,0 +1,12 @@
+package javaWorkshop02;
+
+public class test22 {
+
+	public static void main(String[] args) {
+		for (int i = 'A'; i < 'C'; i++) {
+			System.out.println(i);
+		}
+
+	}
+
+}

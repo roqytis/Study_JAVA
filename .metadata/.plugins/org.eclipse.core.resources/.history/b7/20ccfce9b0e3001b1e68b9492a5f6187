@@ -1,0 +1,14 @@
+package javaWorkshop02;
+
+import java.util.Scanner;
+
+public class test7 {
+
+	public static void main(String[] args) {
+		Scanner scan =new Scanner(System.in);
+		int n;
+		System.out.println("한 자리 정수값을 입력하시오");
+	 n=scan.nextInt();
+	}
+
+}

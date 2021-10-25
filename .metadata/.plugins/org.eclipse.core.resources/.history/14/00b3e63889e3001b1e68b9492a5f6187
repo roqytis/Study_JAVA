@@ -1,0 +1,19 @@
+package javaWorkshop02;
+
+public class test08 {
+
+	public static void main(String[] args) {
+		for (int i = 1; i <= 100; i++) {
+			
+			System.out.println(i);
+			if (i%3==0) {System.out.print("foo");
+							}System.out.println();
+			if (i%5==0) {System.out.print("bar");
+						}System.out.println();
+			if (i%7==0) {System.out.print("baz");
+						}System.out.println();
+		
+		}
+	}
+
+}

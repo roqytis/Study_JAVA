@@ -1,0 +1,23 @@
+package javaWorkshop02;
+
+import java.util.Scanner;
+
+public class test7 {
+
+	public static void main(String[] args) {
+		Scanner scan =new Scanner(System.in);
+		System.out.println("한 자리 정수값을 입력하시오");
+	int n=scan.nextInt();
+	int r=0;
+	for (int i = 0; i < 100; i++) {
+		if ((i%n)==0) {
+			r=+i;
+			if(i!=n)System.out.println("+");
+			System.out.print(i);
+			
+		}
+		
+	}
+	}
+
+}

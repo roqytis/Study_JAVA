@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\eclipse\JAVA-save\HELLO_TEST"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="609"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_VER_TX_3"/>
+			<item value="C:\eclipse\JDBC 소스폴더\empJDBCTest"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_VER_2"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_VER_0"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_VER_1"/>
+			<item value="C:\eclipse\JDBC 소스폴더\Final_MyBatis"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_16"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_15"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_7"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_2"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_1 teacher"/>
+			<item value="C:\eclipse\JAVA 소스폴더\javaWorkshop00"/>
+			<item value="C:\eclipse\JAVA 소스폴더\02Day"/>
+			<item value="C:\eclipse\JAVA 소스폴더\HelloTest"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,21 @@
+package javaWorkshop02;
+
+import java.util.Scanner;
+
+public class test10 {
+
+	public static void main(String[] args) {
+		Scanner scan= new Scanner(System.in);
+		System.out.println("n 값:");
+		int n = scan.nextInt();
+		System.out.println("n 값:");
+		int n1 = scan.nextInt();
+		System.out.println("n 값:");
+		int n2 = scan.nextInt();
+				
+			
+		}
+
+	}
+
+

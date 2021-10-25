@@ -1,0 +1,14 @@
+package javaWorkshop02;
+
+import java.util.Scanner;
+
+public class test13 {
+
+	public static void main(String[] args) {
+		Scanner scan =new Scanner(System.in);
+		
+		System.out.println("2자리의 정수를 입력하세요");
+
+	}
+
+}
